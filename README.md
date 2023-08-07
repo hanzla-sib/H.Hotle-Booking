@@ -33,3 +33,6 @@ Navigate to the frontend directory:
     Upload hotel details and photos.
     Browse available hotels, view details, and book rooms.
     Enjoy your hotel booking experience!
+
+
+    replace your Mongo db Atals kay in dot.env file to run the project
